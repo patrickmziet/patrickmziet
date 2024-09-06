@@ -1,4 +1,5 @@
-[https://patrickmziet.github.io/](https://patrickmziet.github.io/)
+I'm interested in AI, have a PhD in mathematical statistics, grew up in South Africa and currently live in London. [Website here](https://patrickmziet.github.io/). 
+
 
 <!--
 **patrickmziet/patrickmziet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
