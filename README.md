@@ -1,4 +1,4 @@
-I'm interested in AI, have a PhD in mathematical statistics, grew up in South Africa and currently live in London. [Website here](https://patrickmziet.github.io/). 
+I'm interested in AI, have a PhD in mathematical statistics, grew up in South Africa and currently live in London. [This is my website](https://patrickmziet.github.io/). 
 
 
 <!--
